@@ -5,6 +5,8 @@ Created a deep learning model from scratch using the data collected from the sim
 This project aims to create a deep learning model from scratch using data collected from a car simulator to enable the car to navigate in new environments.
 
 ## Requirements
+The simulator package is in the folder with the name simulator
+The file for the model is named Finaltest in the deep learning notebooks. 
 To run this project, you need the following:
 
 Python 3.10
