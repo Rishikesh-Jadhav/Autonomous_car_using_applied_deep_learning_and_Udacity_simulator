@@ -9,11 +9,11 @@ The simulator package is in the folder with the name simulator-windows-64
 The file for the model is named Final_Test.ipynb in the deep learning notebooks. 
 To run this project, you need the following:
 
-Python 3.10
-keras 2.3
-NumPy
-Matplotlib
-UdacityCar simulator with the data collection feature
+Python 3.10.  
+keras 2.3.  
+NumPy.  
+Matplotlib.  
+UdacityCar simulator with the data collection feature.  
 
 ## Data Collection
 The car simulator provided a data collection feature that recorded the car's movement along with sensor readings such as speed, steering angle, and camera images. This data was then used to train the deep learning model.
