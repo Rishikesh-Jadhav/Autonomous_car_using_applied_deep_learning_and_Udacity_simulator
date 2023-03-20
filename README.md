@@ -19,7 +19,7 @@ UdacityCar simulator with the data collection feature.
 The car simulator provided a data collection feature that recorded the car's movement along with sensor readings such as speed, steering angle, and camera images. This data was then used to train the deep learning model.
 
 ## Model Architecture
-The deep learning model used in this project was a convolutional neural network (CNN) and a modified version of the lenet architecture that takes the camera images as input and predicts the steering angle. The model consists of multiple convolutional and fully connected layers that learn the features from the images and make predictions based on them.
+The deep learning model used in this project was a nvidea model for self driving cars with convolutional neural network (CNN) that takes the camera images as input and predicts the steering angle. The model consists of multiple convolutional and fully connected layers that learn the features from the images and make predictions based on them.
 
 ## Training
 To train the model, we used the data collected from the car simulator. The data was split into training and validation sets, and the model was trained using the Adam optimizer and mean squared error loss function. The training process was stopped when the validation loss stops improving, indicating that the model has learned all it can from the data.
