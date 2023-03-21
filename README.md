@@ -6,7 +6,10 @@ This project aims to create a deep learning model from scratch using data collec
 
 ## Requirements
 The simulator package is in the folder with the name simulator-windows-64
-The file for the model is named Final_Test.ipynb in the deep learning notebooks. 
+The Final_Test.ipynb notebook contains the code for the deep learning model creation.
+The model.h5 is the saved model.
+the drive.py file is used for connecting the simulator and running the model on it. 
+
 To run this project, you need the following:
 
 Python 3.10.  
@@ -14,6 +17,10 @@ keras 2.3.
 NumPy.  
 Matplotlib.  
 UdacityCar simulator with the data collection feature.  
+
+## Steps to run code
+Download the model.h5, drive.py files.
+Open the terminal, run the drive.py file and open the simulator in either the training or autonomous mode to test the model on the car.
 
 ## Data Collection
 The car simulator provided a data collection feature that recorded the car's movement along with sensor readings such as speed, steering angle, and camera images. This data was then used to train the deep learning model.
