@@ -4,7 +4,7 @@ Created a deep learning model from scratch using the data collected from the sim
 ## Deep Learning Model for Autonomous Car Navigation
 This project aims to create a deep learning model from scratch using data collected from a car simulator to enable the car to navigate in new environments.
 
-<img align="center" alt="Coding" width="250" src="https://github.com/Rishikesh-Jadhav/Simulation-and-Technical-Report-on-Adaptive-control-for-UAVs-equipped-with-a-robotic-arm/blob/main/Controls%20proj2.1.png">
+<img align="center" alt="Coding" width="250" src="https://github.com/Rishikesh-Jadhav/Autonomous_car_using_applied_deep_learning_and_Udacity_simulator/blob/main/Screenshot%202023-03-21%20233652.png">
 
 ## Requirements
 The simulator package is in the folder with the name simulator-windows-64
